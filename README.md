@@ -10,6 +10,7 @@
 - Ionara
 - Jean
 - Jose Anahelton
+- Felipe Barros
 
 
 ## Demonstração
@@ -22,3 +23,8 @@
 - Melhorar interação
 - Melhorar iliminação
 - Melhorar portabilidade
+
+## Referências
+[Creating the Solar System — OpenGL and C++](https://medium.com/@keynekassapa13/creating-the-solar-system-opengl-and-c-9d4e4798d759)
+
+https://github.com/1kar/OpenGL-SolarSystem
